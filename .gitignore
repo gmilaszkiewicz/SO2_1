@@ -34,3 +34,10 @@
 *.vc
 *.sln
 *.opendb
+*.ilk
+*.pdb
+*.db
+*.log
+*.tlog
+*.vcxproj
+*.filters
